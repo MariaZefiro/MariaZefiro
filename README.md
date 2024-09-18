@@ -1,4 +1,4 @@
-<h2 align="left">Olá 👋! Meu nome é Maria e eu sou Desenvolvedora. Sou do Rio de Janeiro. Bem-vindo(a) ao meu GitHub!</h2>
+<h2 align="left">Olá 👋! Meu nome é Maria e eu sou Desenvolvedora. Bem-vindo(a) ao meu GitHub!</h2>
 
 ###
 
@@ -28,6 +28,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/MariaZefiro/MariaZefiro/output/snake.svg" alt="Snake animation" />
+<img src="snake.svg" alt="Snake animation" />
 
 ###
