@@ -1,4 +1,4 @@
-<h2 align="left">Olá 👋! Meu nome é Maria e eu sou Desenvolvedora. Bem-vindo(a) ao meu GitHub!</h2>
+<h2 align="left">Olá 👋!  Meu nome é Maria e eu sou Desenvolvedora. <br> Bem-vindo(a) ao meu GitHub!</h2>
 
 ###
 
