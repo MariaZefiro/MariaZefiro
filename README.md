@@ -40,9 +40,9 @@ Aqui estão algumas das tecnologias que mais utilizo:
 
 Aqui estão alguns projetos que refletem meu trabalho e paixão pela tecnologia:
 
-1. **[Nome do Projeto 1](link)** - Descrição curta sobre o projeto e o que ele resolve. (ex: Sistema de gerenciamento de estoque com integração de leitura de códigos de barras).
-2. **[Nome do Projeto 2](link)** - Descrição curta sobre o projeto e o que ele resolve.
-3. **[Nome do Projeto 3](link)** - Descrição curta sobre o projeto e o que ele resolve.
+1. **[Kanboard](https://github.com/MariaZefiro/Kanboard)** - Um sistema de gerenciamento de tarefas tipo Kanban com funcionalidades como criação de quadros, listas e cartões.
+2. **[Inventário](https://github.com/MariaZefiro/Inventario)** - Aplicação para gerenciamento de inventário, com adição, edição e remoção de itens, além de relatórios.
+3. **[Pingux](https://github.com/MariaZefiro/Pingux)** - Um projeto dedicado a criar um sistema de monitoramento para dispositivos em rede.
 
 ---
 
