@@ -1,5 +1,7 @@
 # Olá, eu sou **Maria Couto** 👋
 
+![Animação de código](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXJ1aWwxbDh0bGgxY2piMDVjbnB3dHZrdWNydmw1dDh4anpoYnFqMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jBOOXxSJfG8kqMxT11/giphy.gif)
+
 🚀 **Desenvolvedora Full-Stack | Apaixonada por Inovação e Tecnologia**
 
 ---
