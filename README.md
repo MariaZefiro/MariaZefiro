@@ -10,7 +10,7 @@
 
 ### 💫 **Sobre Mim**
 
-Sou uma desenvolvedora full-stack com **paixão por tecnologia e inovação**. Atualmente, trabalho na **Leste Telecom**, onde desenvolvo soluções robustas e escaláveis para atender às necessidades dos projetos. Sempre em busca de desafios que me permitam crescer, aprender novas tecnologias e entregar soluções de alta qualidade.
+ Atualmente, trabalho na **Leste Telecom**, onde desenvolvo soluções robustas e escaláveis para atender às necessidades dos projetos. Sempre em busca de desafios que me permitam crescer, aprender novas tecnologias e entregar soluções de alta qualidade.
 
 🔧 **Minhas Áreas de Expertise:**
 - Desenvolvimento Frontend e Backend
