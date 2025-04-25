@@ -48,12 +48,6 @@ Aqui estão alguns projetos que refletem meu trabalho e paixão pela tecnologia:
 
 ---
 
-### 📊 **Estatísticas GitHub**
-
-![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=MariaZefiro&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=dark)
-
----
-
 ### ✍️ **Citação Favorita**
 
 > "A melhor forma de prever o futuro é criá-lo." – **Abraham Lincoln**
@@ -65,18 +59,8 @@ Aqui estão alguns projetos que refletem meu trabalho e paixão pela tecnologia:
 - **E-mail**: [mariazefiroc@gmail.com](mailto:mariazefiroc@gmail.com)
 - **LinkedIn**: [linkedin.com/in/maria-couto-3256a526a](https://www.linkedin.com/in/maria-couto-3256a526a)
 - **GitHub**: [github.com/MariaZefiro](https://github.com/MariaZefiro)
-- **Twitter**: [twitter.com/seu-usuario](https://twitter.com/seu-usuario)
-
----
-
-### 🔥 **Siga-me nas Redes Sociais**
-
-- [Instagram](https://instagram.com/seu-usuario)
-- [Dev.to](https://dev.to/seu-usuario)
 
 ---
 
 ### ✍️ 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
