@@ -1,4 +1,4 @@
-# Olá, eu sou **Maria Couto** 👋
+# Olá, eu sou a **Maria Zefiro** 👋
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2UwNG83OG5xMzcybzV2cnpiZGY4dWJmeGkyMzI5em5sczJ4YW1iaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ENY5vJgJPEfG3Ym14H/giphy.gif" alt="Animação de código" width="200"/>
