@@ -15,8 +15,6 @@ Sou uma desenvolvedora full-stack com **paixão por tecnologia e inovação**. A
 - Criação de Aplicações Responsivas
 - DevOps e Automação de Processos
 
-**"Code is like humor. When you have to explain it, it’s bad." – Cory House** 😄
-
 ---
 
 ### 🛠 **Tecnologias e Ferramentas**
@@ -50,7 +48,7 @@ Aqui estão alguns projetos que refletem meu trabalho e paixão pela tecnologia:
 
 ### ✍️ **Citação Favorita**
 
-> "A melhor forma de prever o futuro é criá-lo." – **Abraham Lincoln**
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House 😄
 
 ---
 
@@ -62,5 +60,4 @@ Aqui estão alguns projetos que refletem meu trabalho e paixão pela tecnologia:
 
 ---
 
-### ✍️ 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
