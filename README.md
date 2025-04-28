@@ -16,7 +16,6 @@
 - Desenvolvimento Frontend e Backend
 - Integração com APIs
 - Arquitetura de Sistemas
-- Criação de Aplicações Responsivas
 - DevOps e Automação de Processos
 
 ---
