@@ -12,6 +12,9 @@
 
  Atualmente, trabalho na **Leste Telecom**, onde desenvolvo soluções robustas e escaláveis para atender às necessidades dos projetos. Sempre em busca de desafios que me permitam crescer, aprender novas tecnologias e entregar soluções de alta qualidade.
 
+🌐 **Meu Site Pessoal:**
+ https://mariacouto.dev/
+
 🔧 **Minhas Áreas de Expertise:**
 - Desenvolvimento Frontend e Backend
 - Integração com APIs
