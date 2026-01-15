@@ -10,10 +10,13 @@
 
 ### 💫 **Sobre Mim**
 
- Atualmente, trabalho na **Leste Telecom**, onde desenvolvo soluções robustas e escaláveis para atender às necessidades dos projetos. Sempre em busca de desafios que me permitam crescer, aprender novas tecnologias e entregar soluções de alta qualidade.
+ Atualmente, trabalho na minha própria empresa **Scallar**, onde desenvolvo soluções robustas e escaláveis para atender às necessidades dos clientes. Sempre em busca de desafios que me permitam crescer, aprender novas tecnologias e entregar soluções de alta qualidade.
 
 🌐 **Meu Site Pessoal:**
  https://mariacouto.dev/
+ 
+ 🌐 **Scallar:**
+ https://scallar.com.br/
 
 🔧 **Minhas Áreas de Expertise:**
 - Desenvolvimento Frontend e Backend
