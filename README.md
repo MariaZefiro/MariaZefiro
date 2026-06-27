@@ -10,7 +10,7 @@
 
 ### 💫 **Sobre Mim**
 
- Atualmente, trabalho na minha própria empresa **Scallar**, onde desenvolvo soluções robustas e escaláveis para atender às necessidades dos clientes. Sempre em busca de desafios que me permitam crescer, aprender novas tecnologias e entregar soluções de alta qualidade.
+ Atualmente desenvolvo soluções robustas e escaláveis para atender às necessidades dos clientes. Sempre em busca de desafios que me permitam crescer, aprender novas tecnologias e entregar soluções de alta qualidade.
 
 🌐 **Meu Site Pessoal:**
  https://mariacouto.dev/
