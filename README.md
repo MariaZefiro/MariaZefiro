@@ -14,9 +14,6 @@
 
 🌐 **Meu Site Pessoal:**
  https://mariacouto.dev/
- 
- 🌐 **Scallar:**
- https://scallar.com.br/
 
 🔧 **Minhas Áreas de Expertise:**
 - Desenvolvimento Frontend e Backend
